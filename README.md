@@ -135,7 +135,7 @@ OPENAI_API_KEY=your_openai_api_key
 
 Run the script:
 ```bash
-python main.py
+python Talk_to_SQL_in_English.py
 ```
 
 ### Example Questions You Can Ask:
@@ -177,18 +177,6 @@ python-dotenv==1.0.0
 - Try simpler questions first
 - Look at the generated SQL to debug
 
-## 🤝 Contributing
 
-Feel free to open issues or submit pull requests! This is a learning project and I'm always open to improvements.
-
-## 📜 License
-
-MIT License - feel free to use this however you want!
-
-## 🙋‍♂️ Questions?
-
-DM me on LinkedIn or open an issue here. Always happy to help fellow developers!
-
----
 
 *Built with ☕ and curiosity about how enterprise AI features actually work*
