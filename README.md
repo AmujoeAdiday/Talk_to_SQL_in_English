@@ -20,8 +20,9 @@ Ask your database questions in plain English and get real answers back! This pro
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/nl-to-sql.git
-cd nl-to-sql
+git clone https://github.com/AmuJoeAiday/Talk_to_SQL_in_English.git
+cd Talk_to_SQL_in_English
+python Talk_to_SQL_in_English.py
 ```
 
 ### 2. Install required packages
