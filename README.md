@@ -146,14 +146,12 @@ python main.py
 - "Which features are used most by pro plan customers?"
 - "What's the average API usage for enterprise customers?"
 
-## 📁 Project Structure
-```
-nl-to-sql/
-├── main.py              # Main script
-├── .env                 # Environment variables (create this)
-├── requirements.txt     # Python dependencies
-└── README.md           # This file
-```
+📁 Project Structure
+Talk_to_SQL_in_English/
+├── Talk_to_SQL_in_English.py    # Main script
+├── .env                         # Environment variables (create this)
+├── requirements.txt             # Python dependencies
+└── README.md                   # This file
 
 ## 🔧 Requirements.txt
 ```txt
